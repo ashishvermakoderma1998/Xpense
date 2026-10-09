@@ -22,7 +22,7 @@ const Header = () => {
               <a href="">Pricing</a>
             </li>
             <li>
-              <a href="">Feedback</a>
+              <a href="">F</a>
             </li>
           </ul>
         </div>
