@@ -6,9 +6,7 @@ const Header = () => {
     <>
       <div className="flex justify-between px-25 py-15 text-2xl font-sans">
         <div>
-          <p>
-            <span className="bg-orange-600 rounded-full mx-3 text-white">X</span>pense
-          </p>
+        <img src="/src/assets/Logo.png" alt="" />
         </div>
         <div>
           <ul className="flex gap-5">
@@ -27,7 +25,7 @@ const Header = () => {
           </ul>
         </div>
         <div>
-            <p className="border-2 border-amber-500 rounded-2xl px-2 py-1">Request Demo</p>
+            <p className="border-2 border-amber-500 rounded-2xl px-2 py-1 text-orange-600"  >Request Demo</p>
         </div>
       </div>
     </>
