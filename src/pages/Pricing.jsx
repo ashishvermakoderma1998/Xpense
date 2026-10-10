@@ -41,7 +41,7 @@ const Pricing = () => {
             
             <div>
             <img className='inline-block' src="/src/assets/ic_baseline-check.png" alt="" />
-            <span>Cloud server Sup </span>
+            <span>Cloud server Supp </span>
             </div>
           </div>
 
